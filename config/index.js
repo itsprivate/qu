@@ -85,6 +85,24 @@ const siteMetadata = {
         },
       ],
     },
+    {
+      locale: "ja",
+      title: "Quora 人気の応答",
+      shortTitle: "Quora人気",
+      description: "人気のQuora応答を日本語で閲覧",
+      keywords: ["buzzing", "Quora"],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+    },
   ],
 };
 
